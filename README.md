@@ -12,6 +12,8 @@ Took me like 5 minutes and it might not work in a few months or a year but, then
 5. Paste the code
 6. Enjoy!
 
+ ![Console screenshot](screenshot.png)
+ 
 # Versions
 
 ## 📅 March 23, 2025
